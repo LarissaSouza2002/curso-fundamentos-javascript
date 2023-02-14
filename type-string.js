@@ -12,8 +12,8 @@ const meuNome = "Larissa";
 const citacao1 = "Meu nome é ";
 console.log(citacao1 + meuNome)
 
-/*const cifrao = '/u0024';
-console.log(cifrao)*/
+
+
 
 
 

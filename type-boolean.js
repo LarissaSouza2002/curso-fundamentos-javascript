@@ -10,6 +10,12 @@ console.log(num3 === num4);
 
 // diferença entre - let e const
 //cadastroAtivado = true;
+//(===)-> tem que ser do mesmo tipo e valor
+// (==)-> tem que ter o mesmo valor
+//(||)-> Operador “ou”, retorna true caso uma condição seja válida;
+//(&&)-> Operador “e”, retorna true somente se todas as condições forem válidas;
+//(!=) e (!==)-> Operadores “não igual” e “estritamente não igual”, utilizados para comparação, 
+//da mesma forma que == e === retornam true ou false.
 
 
 const cidade = "Belo Horizonte";
